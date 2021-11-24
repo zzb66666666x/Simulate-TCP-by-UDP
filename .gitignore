@@ -1,0 +1,10 @@
+reliable_receiver
+reliable_sender
+obj
+data/*
+!data/*.py
+!data/*.cpp
+!data/*.hpp
+!data/*.h
+!data/*.c
+.vscode
