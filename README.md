@@ -2,7 +2,7 @@
 
 This project follows the instruction of UIUC ECE438 (fa21), MP2. The `mp2.pdf` specify the requirements. The idea is to simulate a TCP protocol with UDP, to realize reliable data transfer even when there is delay or packet loss in the network. 
 
-Author of this project: [Zhongbo Zhu]([zzb66666666x (Zhongbo Zhu) (github.com)](https://github.com/zzb66666666x)) and [Xiwei Wang](https://github.com/Xiwei-Wang).
+Author of this project: [Zhongbo Zhu](https://github.com/zzb66666666x) and [Xiwei Wang](https://github.com/Xiwei-Wang).
 
 #### How to run
 
@@ -33,5 +33,5 @@ Here, the parameters are: IP, port, filename, bytes_to_transfer.
 
 image author: [ Romit Roy Choudhury @ UIUC \] (illinois.edu)](https://croy.web.engr.illinois.edu/)
 
-![](C:\Users\18767\MyCode\Cpp\Simulate-TCP-by-UDP\TCP.png)
+![](.\TCP.png)
 
