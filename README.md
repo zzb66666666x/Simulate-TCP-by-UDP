@@ -33,5 +33,5 @@ Here, the parameters are: IP, port, filename, bytes_to_transfer.
 
 image author: [ Romit Roy Choudhury @ UIUC \] (illinois.edu)](https://croy.web.engr.illinois.edu/)
 
-![](.\TCP.jpg)
+![](TCP.jpg)
 
